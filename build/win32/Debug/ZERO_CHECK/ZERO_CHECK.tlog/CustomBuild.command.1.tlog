@@ -1,0 +1,10 @@
+^C:\USERS\JOSIA\ONEDRIVE\ÁREA DE TRABALHO\APP-PROMOCAO\BUILD\CMAKEFILES\3071822CA5611890A342BBEBED4C4044\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/josia/OneDrive/Área de Trabalho/app-promocao/app-promocao-main/windows" "-BC:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/app_promocao.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

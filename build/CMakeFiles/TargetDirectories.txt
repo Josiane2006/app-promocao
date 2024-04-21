@@ -1,0 +1,10 @@
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/CMakeFiles/INSTALL.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/flutter/CMakeFiles/INSTALL.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/runner/CMakeFiles/app_promocao.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/runner/CMakeFiles/INSTALL.dir
+C:/Users/josia/OneDrive/Área de Trabalho/app-promocao/build/runner/CMakeFiles/ALL_BUILD.dir

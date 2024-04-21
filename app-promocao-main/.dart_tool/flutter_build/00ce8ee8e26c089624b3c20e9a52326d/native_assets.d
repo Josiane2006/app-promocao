@@ -1,0 +1,1 @@
+ C:\\Users\\josia\\OneDrive\\Área\ de\ Trabalho\\app-promocao\\app-promocao-main\\.dart_tool\\flutter_build\\00ce8ee8e26c089624b3c20e9a52326d\\native_assets.yaml: 
